@@ -67,8 +67,8 @@ Adicionar video e documentos nessa seção
  ### Tecnológias Específicas/Apoio
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
 - [Jira Software](https://log206g3.atlassian.net/jira/software/projects/scrum/boards/1)
-- [Power BI](https://repositorio.unesp.br/handle/11449/237929)
-- [Github](https://robsoncamargo.com.br/blog/PMBOK)
+- [Power BI]
+- [Github](https://github.com/LOGISTICANOTURNOFATEC2-23/Biscoito-de-dados)
 - [Excel]
 - [Word]
   
