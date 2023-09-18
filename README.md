@@ -117,46 +117,29 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 0. Apresentação do backlog
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Apresentação do backlog
+- [ ] Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
+- [ ] Definir KPI´s de acordo com a demanda do cliente;
+- [ ] Analíse dos países que são os melhores parceiros comerciais;
+- [ ] Entender como funciona a estrutura de importação e exportação do aeroporto SJK;
+- [ ] Analíse SWOT da sprint  1;
+- [ ] Analíse SWOT da sprint  2;
+- [ ] Analíse SWOT da sprint  3;
+- [ ] Analíse SWOT da sprint  4;
+- [ ] Criação do dashboard;
+- [ ] Aprendizado de power BI;
+- [ ] Entendimento dos dados da planilha.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Definição da estrutura de trabalho;
+- [ ] Aprendizado 5W2H;
+- [ ] Aprendizado do Jira Software;
+- [ ] Estruturação dos próximos sprints no Jira;
+- [ ] Reunião sobre o entendimento das ferramentas do projeto;
+- [ ] Comunicação com o cliente;
+- [ ] Documentar todas as informações e processos;
+- [x] Analíse SWOT da sprint  1;
+- [ ] Estrutução do GitHub;
 
 # Competências desenvolvidas
 
