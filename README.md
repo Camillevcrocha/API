@@ -68,7 +68,7 @@ Adicionar video e documentos nessa seção
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
 - [Jira Software](https://log206g3.atlassian.net/jira/software/projects/scrum/boards/1)
 - [Power BI]
-- [Github](https://github.com/LOGISTICANOTURNOFATEC2-23/Biscoito-de-dados)
+- [Github](https://github.com/LOGISTICANOTURNOFATEC2023/Biscoito-de-dados)
 - [Excel]
 - [Word]
   
