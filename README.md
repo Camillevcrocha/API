@@ -76,7 +76,7 @@ Adicionar video e documentos nessa seção
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
