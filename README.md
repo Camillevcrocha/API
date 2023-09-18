@@ -34,7 +34,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Micro Certificações
-Futuramente
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
@@ -67,7 +66,7 @@ Adicionar video e documentos nessa seção
 
  ### Tecnológias Específicas/Apoio
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
-- [Jira Software](nomus.com.br/blog-industrial/balanceamento-de-linha/)
+- [Jira Software](https://log206g3.atlassian.nt/browse/scrum-20)
 - [Power BI](https://repositorio.unesp.br/handle/11449/237929)
 - [Github](https://robsoncamargo.com.br/blog/PMBOK)
 - [Excel]
