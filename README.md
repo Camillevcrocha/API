@@ -117,18 +117,18 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Apresentação do backlog
-- [ ] Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
-- [ ] Definir KPI´s de acordo com a demanda do cliente;
-- [ ] Analíse dos países que são os melhores parceiros comerciais;
-- [ ] Entender como funciona a estrutura de importação e exportação do aeroporto SJK;
-- [ ] Analíse SWOT da sprint  1;
-- [ ] Analíse SWOT da sprint  2;
-- [ ] Analíse SWOT da sprint  3;
-- [ ] Analíse SWOT da sprint  4;
-- [ ] Criação do dashboard;
-- [ ] Aprendizado de power BI;
-- [ ] Entendimento dos dados da planilha.
+## Apresentação do backlo
+- Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
+- Definir KPI´s de acordo com a demanda do cliente;
+- Analíse dos países que são os melhores parceiros comerciais;
+- Entender como funciona a estrutura de importação e exportação do aeroporto SJK;
+- Analíse SWOT da sprint  1;
+- Analíse SWOT da sprint  2;
+- Analíse SWOT da sprint  3;
+- Analíse SWOT da sprint  4;
+- Criação do dashboard;
+- Aprendizado de power BI;
+- Entendimento dos dados da planilha.
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Definição da estrutura de trabalho;
@@ -139,7 +139,7 @@ User stories
 - [ ] Comunicação com o cliente;
 - [ ] Documentar todas as informações e processos;
 - [x] Analíse SWOT da sprint  1;
-- [ ] Estrutução do GitHub;
+- [ ] Estrutução do GitHub.
 
 # Competências desenvolvidas
 
