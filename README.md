@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -51,7 +51,7 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas da equipe.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Vídeos e apresentações das sprints
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
@@ -67,16 +67,16 @@ Adicionar video e documentos nessa seção
  ### Tecnológias Específicas/Apoio
  > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
 - [Jira Software](https://log206g3.atlassian.net/jira/software/projects/scrum/boards/1)
-- [Power BI]
 - [Github](https://github.com/logisticanoturnofatec2023/biscoito-de-dados)
-- [Excel]
-- [Word]
+- Power BI
+- Excel
+- Word
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/watch?v=wtpstMZwozs)
+- Power BI
+- [![MVP]()](https://www.youtube.com/watch?v=wtpstMZwozs)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
@@ -117,7 +117,7 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Apresentação do backlo
+## Apresentação do backlog
 - Aprendizado de como gerar interação entre os dados das tabelas apresentadas;
 - Definir KPI´s de acordo com a demanda do cliente;
 - Analíse dos países que são os melhores parceiros comerciais;
