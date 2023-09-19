@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Cronograma das sprints](#cronograma-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -87,7 +87,7 @@ Exemplos:
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
   
