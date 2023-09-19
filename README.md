@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe](https://github.com/Camillevcrocha/bis/blob/main/Autores.png)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar a identificar o potencial regional de movimentação de cargas que podem alavancar o aeroporto de São José dos Campos, utilizando:
