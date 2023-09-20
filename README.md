@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
 * [Cronograma das sprints](#cronograma-das-sprints)
-* [Backlog do produto](#Backlog-do-produto)
+* [Backlog do produto](#Backlog-do-produto-e-sprints)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
@@ -89,11 +89,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
-# Backlog do produto
+# Backlog do produto e sprints
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
+![product backlog](https://github.com/Camillevcrocha/bis/blob/main/Backlogdoproduto.png)
 ![sprint backlog](https://github.com/Camillevcrocha/bis/blob/main/Sprint01.png)
 </div>
 
