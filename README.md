@@ -6,7 +6,7 @@ Repositório para armazenagem de dados, ligado ao projeto de mapeamento do poten
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.
 
 # Índice
-* [Nossa empresa](#Missão,-visão-e-valores)
+* [Nossa empresa](#Missão-visão-e-valores)
 * [Cronograma)](#Cronograma-das-sprints)
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
