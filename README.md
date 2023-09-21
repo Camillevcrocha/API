@@ -7,7 +7,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 # Índice
 * [Nossa empresa](#Missão-visão-e-valores)
-* [Cronograma)](#Cronograma-das-sprints)
+* [Cronograma](#Cronograma-das-sprints)
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -90,14 +90,8 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 * Desenvolver habilidades técnicas da equipe.
 
 # Vídeos e apresentações das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
+- 5W2H
+- Analíse SWOT da empresa
 ## Tecnologias Utilizadas
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
