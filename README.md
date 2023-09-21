@@ -132,24 +132,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Camillevcrocha/bis/blob/main/Sprint01.png)
 </div>
 
-Regras de Negócio
-- 
+# Regras de Negócio
 
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+### Requisitos funcionais
 
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
-User stories
+### Requisitos não funcionais
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog](h
 
 
 ## Apresentação do backlog
