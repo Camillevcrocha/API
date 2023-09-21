@@ -1,12 +1,12 @@
 # BISCOITO DE DADOS
 # Aprendizado por Projeto Integrado (API) - Logística
 
-Repositório para armazenagem de dados do projeto de mapeamento do potencial de movimentação de cargas no aeroporto de São José dos Campos.
+Repositório para armazenagem de dados, ligado ao projeto de mapeamento do potencial de movimentação de cargas no aeroporto de São José dos Campos.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.
 
 # Índice
-
+* [Nossa empresa](Missão,-visão-e-valores)
 * [Projeto (API)](#projeto-api)
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
@@ -18,19 +18,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto API
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+# Cronograma das sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|0| 25/09/2023 | Em processo| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|1| 16/10/2023| A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|2| 06/11/2023 | A fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|3| 27/11/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 04/09/2023 | Concluido|  | 
+|0| 25/09/2023 | Em processo|  | 
+|1| 16/10/2023| A fazer |  | 
+|2| 06/11/2023 | A fazer|  | 
+|3| 27/11/2023 | A fazer |  | 
+|Feira de Soluções| 12/12/2023 | A fazer | | 
 
 
 # Micro Certificações
