@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
-* [Cronograma das sprints](#cronograma-das-sprints)
+* [Estrutura do Jira Software](#estrutura-do-jira-software)
 * [Backlog do produto](#Backlog-do-produto-e-sprints)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -122,7 +122,7 @@ Exemplos:
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Estrutura do Jira Software[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto e sprints
   
