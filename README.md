@@ -22,7 +22,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 04/09/2023 | Concluido|  | 
+|Kick Off | 04/09/2023 | Concluido| [Relatório] (https://github.com/Camillevcrocha/bis/blob/main/Kick-off%20API%201N.pptx) | 
 |0| 25/09/2023 | Em processo|  | 
 |1| 16/10/2023| A fazer |  | 
 |2| 06/11/2023 | A fazer|  | 
