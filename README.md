@@ -90,9 +90,10 @@ Este projeto tem como objetivo ajudar a identificar o potencial regional de movi
 * Desenvolver habilidades técnicas da equipe.
 
 # Vídeos e apresentações das sprints
-- ![5w2h](https://github.com/Camillevcrocha/bis/blob/main/5W2H..%20(2).pdf)
+
+- [5w2h](https://github.com/Camillevcrocha/bis/blob/main/5W2H..%20(2).pdf)
 - 
-- Analíse SWOT da empresa
+- Analíse SWOT da empresa(
 ## Tecnologias Utilizadas
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
