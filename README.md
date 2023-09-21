@@ -6,8 +6,8 @@ Repositório para armazenagem de dados, ligado ao projeto de mapeamento do poten
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.
 
 # Índice
-* [Nossa empresa](Missão,-visão-e-valores)
-* [Projeto (API)](#projeto-api)
+* [Nossa empresa](#Missão,-visão-e-valores)
+* [Cronograma)](#Cronograma-das-sprints)
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -18,6 +18,47 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
+# Missão, visão e valores
+
+## Missão
+- Nossa missão é fornecer soluções logísticas de classe mundial,
+impulsionando o sucesso de nossos clientes no mercado global.
+Comprometemos a otimizar cadeias de suprimentos, aumento de lucros,
+garantindo eficiência e, consequentemente, a satisfação do cliente em cada
+projeto que realizarmos.
+
+## Visão
+- Ser a melhor referência de parceria e líder de mercado em serviço de
+consultoria logística, especialmente, para importação e exportação. Visamos
+a ser reconhecidos como parâmetro no ramo logístico, visto que ansiamos
+por inovações e melhores soluções.
+
+## Valores
+- Eficiência em nossos projetos - buscando sempre uma maneira de otimizar
+nossas metodologias, a fim de sermos econômicos e sempre cumprirmos
+nossos prazos;
+
+- Parceria com cliente - entendendo especificamente suas necessidades e
+trabalhando em conjunto para atingir o sucesso com o projeto;
+
+- Personalização de projetos - cada propósito é único, então é necessário a
+adaptação de soluções para entender as demandas individuais de cada
+cliente;
+
+- Sustentabilidade econômica - para sempre adotarmos hábitos logísticos
+responsáveis, com o objetivo de construir uma confiança com nossos
+clientes e parceiros;
+
+- Transparência nas operações - garantir integridade em nossas interações comerciais;
+ 
+- Inovação contínua - buscamos as melhores tecnologias e
+abordagens, para maior qualidade de nossos serviços;
+
+- Investimento no crescimento da nossa equipe - com oportunidades de
+aprendizado e progresso profissional;
+
+- Apoio social e de responsabilidades corporativas.
+  
 # Cronograma das sprints
 
 Sprint | Previsão | Status| Histórico|
